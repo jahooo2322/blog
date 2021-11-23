@@ -4,7 +4,7 @@ function Home(){
 
     return(
 <div>
-     <h1>Página inicial</h1>
+     <h1>Página inicial  da home</h1>
      <Contador/>
 </div>
 
