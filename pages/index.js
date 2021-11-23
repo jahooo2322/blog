@@ -1,16 +1,13 @@
-import {useState} from 'react'
+//import {useState} from 'react'
 
 function Home(){
 
-    return(
-<div>
-     <h1>Home 2222</h1>
-     <Contador/>
-</div>
+    return <h1>Home</h1>
+    
 
-    )
 }
-
+export default Home
+/*
 function Contador(){
 
     const [contador, setContador] = useState(1)
@@ -28,5 +25,5 @@ return (
 
 
 }
+*/
 
-export default Home
